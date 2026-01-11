@@ -10,7 +10,7 @@ public class NumberGuessingGame {
         int attempts = 0;
         int guess = 0;
 
-        System.out.println(" Welcome to Number Guessing Game!");
+        System.out.println(" Welcome to the Number Guessing Game!");
         System.out.println("I have chosen a number between 1 and 100. Try to guess it!");
 
         while (guess != numberToGuess) {
